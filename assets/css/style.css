@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/wallpaper.jpg");
+}
+
+
+h1 {
+    color: blue;
+    background-color: peachpuff;
+    width: 500px;
+    height : 100px;
+    text-align: center;
+    padding: 10px;
+ 
+}
+
+p {
+    color: black;
+    background-color: rgb(55, 124, 180);
+    width: 500px;
+    height : 175px;
+    text-align: center;
+    padding: 10px;
+ 
+}
+
+img {
+    width: 125px;
+    height: 175px;
+    padding: 10px;
+}
+
+
