@@ -23,10 +23,35 @@ p {
  
 }
 
-img {
+.image {
     width: 125px;
     height: 175px;
     padding: 10px;
 }
+.numberToMatch {
+    text-align: center;
+    width: 250px;
+    height: 70px;
+    background-color: aqua;
+}    
+
+.winsAndLosses {
+    text-align: center;
+    width: 250px;
+    height: 70px;
+    background-color: aqua; 
+}
 
 
+    
+
+.yourTotal { 
+    text-align: center;
+    width: 250px;
+    height: 70px;
+    background-color: rgb(81, 112, 75);
+    float: left;
+    
+    
+
+}
