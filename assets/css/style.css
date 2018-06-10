@@ -20,7 +20,6 @@ p {
     height : 175px;
     text-align: center;
     padding: 10px;
- 
 }
 
 .image {
@@ -42,14 +41,8 @@ p {
     float: left;
     width: 250px;
     height: 70px;
-    background-color: aqua;
-    
-
+    background-color: rgb(218, 86, 200);
 }
-
- .winsAndLosses h2{
-     padding: 0px 0px 10px;
- }   
 
 .yourTotal { 
     text-align: center;
